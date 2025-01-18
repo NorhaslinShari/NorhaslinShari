@@ -1,4 +1,6 @@
 ## Hi there 👋
+Hello ✨, I am a Science Computer student specializing in bioinformatics.I’m currently studies in University Teknologi Malaysia. As a bioinformatics student, I merge the realms of biology and computer science. Currently, i had learned a C++ language where it was my first learned-language. I thrive on curiosity and love learning about the biology and also the new language in programming. My ambition is to become an analytic data so that i can uncover the mysteries within biological data.
+
 
 <!--
 **NorhaslinShari/NorhaslinShari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
